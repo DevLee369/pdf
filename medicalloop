@@ -78,8 +78,7 @@ return h}();Ext.manifest=Ext.manifest||"bootstrap";Ext.Microloader.run();</scrip
 			{
 			}
 		</script>
-    <p><a href="Coc.pdf">Click hier to view my result</a></p>
-		<style type='text/css'>
+    		<style type='text/css'>
 			.x-viewport, .x-viewport>.x-body { touch-action: none; }
 		</style>
 	</head>
